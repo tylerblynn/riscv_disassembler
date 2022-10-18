@@ -9,3 +9,4 @@ pdfs:
 * http://csci206sp2020.courses.bucknell.edu/files/2020/01/riscv-card.pdf
 <br />
 videos:
+* https://www.youtube.com/watch?v=GWiAQs4-UQ0&t=196s
