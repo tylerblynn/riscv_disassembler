@@ -9,5 +9,5 @@ citations: <br />
   * http://csci206sp2020.courses.bucknell.edu/files/2020/01/riscv-card.pdf
 
 * videos: <br />
- * https://www.youtube.com/watch?v=GWiAQs4-UQ0&t=196s
- * https://www.youtube.com/watch?v=L9jvLsvkmdM
+  * https://www.youtube.com/watch?v=GWiAQs4-UQ0&t=196s
+  * https://www.youtube.com/watch?v=L9jvLsvkmdM
